@@ -3,7 +3,7 @@ entries:
   gitlab-runner:
   - apiVersion: v1
     appVersion: 12.1.0-rc1
-    created: "2019-08-20T17:16:06.741987-04:00"
+    created: "2019-08-20T18:13:13.55348-04:00"
     description: GitLab Runner
     digest: ab1c441d4e5823fd91ad43d654bcdd2b963720557998075b3003160c6aa33a98
     icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
@@ -19,6 +19,6 @@ entries:
     - https://hub.docker.com/r/gitlab/gitlab-runner/
     - https://docs.gitlab.com/runner/
     urls:
-    - https://suryalolla.github.io/gitlab-runner/gitlab-runner-0.8.0-beta.tgz
+    - gitlab-runner-0.8.0-beta.tgz
     version: 0.8.0-beta
-generated: "2019-08-20T17:16:06.739907-04:00"
+generated: "2019-08-20T18:13:13.551681-04:00"
